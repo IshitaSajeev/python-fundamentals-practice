@@ -11,13 +11,5 @@ I’m adding new programs regularly as I learn and improve my problem-solving sk
 - oops – object-oriented programming concepts  
 - logic – logical and interview-style problems  
 
-## Current Progress
-- Basics – started and ongoing  
-- Control Flow – in progress  
-- Data Structures – planned  
-- Functions – planned  
-- OOP – planned  
-- Logic Problems – planned  
-
 ## Purpose
 The main purpose of this repository is to strengthen my Python fundamentals and prepare for backend development and technical interviews.
